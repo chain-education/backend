@@ -2,5 +2,7 @@
 
 ## TODO
  - [x] Use Postgresql as db.
- - Design database schema.
+ - [x] Add /ping api.
+ - [ ] Add tests
+ - [ ] Design database schema.
 
