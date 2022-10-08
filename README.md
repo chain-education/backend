@@ -1,6 +1,6 @@
 # backend
 
 ## TODO
- - Use Postgresql as db.
+ - [x] Use Postgresql as db.
  - Design database schema.
 
